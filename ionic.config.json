@@ -1,0 +1,8 @@
+{
+  "name": "love-calculator",
+  "app_id": "a0f17678",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
